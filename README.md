@@ -25,13 +25,13 @@ BREAKDOWN OF ORDERS BY STATES -  Used a bar graph to display top sales categorie
   
 1. INSIGHTS FROM THE 'ORDER VS MONTH' GRAPH/DATA
    
-   a. Most orders were sold in March. This goes when you control for only women, in the case of men, they ordered the most products in January.
-   b. The least orders sold were in November. This goes for women as well, whereas men ordered the least orders in March.
-   c. Western dresses were sold the most in August and the least in May
-   d. Ethnic dresses were sold the most in October and the least in February
-   e. Blouses were sold the most in July and the least in May
-   f. Tops had the most consistent orders throughout the year with almost the same amount of orders every month
-   g. Comparing genders, women had the most consistent amount of orders every month
+   - Most orders were sold in March. This goes when you control for only women, in the case of men, they ordered the most products in January.
+   - The least orders sold were in November. This goes for women as well, whereas men ordered the least orders in March.
+   - Western dresses were sold the most in August and the least in May
+   - Ethnic dresses were sold the most in October and the least in February
+   - Blouses were sold the most in July and the least in May
+   - Tops had the most consistent orders throughout the year with almost the same amount of orders every month
+   - Comparing genders, women had the most consistent amount of orders every month
 
 2. INSIGHTS FROM 'ORDER CHANNELS' PIE CHART/DATA
 
