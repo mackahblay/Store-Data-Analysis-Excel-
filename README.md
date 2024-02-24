@@ -1,17 +1,17 @@
 PROJECT DESCRIPTION - EXPLORING STORE SALES DATA WITH EXCEL
 
 In this project, I delved into a comprehensive dataset from a store, uncovering valuable insights using a variety of Excel techniques. The dataset provided a wealth of information, including orders, customer ages, order dates, delivery statuses, quantities, currency details, amounts, shipping statistics, and order/product categories.
-Key Insights:
 
-    Orders vs. Month Sold: Visualized the trend of orders over different months, providing a clear understanding of seasonal variations and sales peaks.
+- KEY INSIGHTS
 
+ORDERS VS MONTH SOLD -  Visualized the trend of orders over different months, providing a clear understanding of seasonal variations and sales peaks.
     Orders by Age & Gender: Utilized bar graphs to showcase the distribution of orders across various age groups and genders, offering insights into the store's target demographics.
 
-    Order Status Distribution: Presented order statuses through a pie chart, breaking down the statuses into categories like refunded, cancelled, and delivered, providing a snapshot of order fulfillment efficiency.
+ORDER STATUS DISTRIBUTION - Presented order statuses through a pie chart, breaking down the statuses into categories like refunded, cancelled, and delivered, providing a snapshot of order fulfillment efficiency.
 
-    Order Channels Analysis: Created a pie chart to illustrate the distribution of orders across different channels, such as online platforms like Amazon versus in-store purchases from malls.
+ORDER CHANNEL ANALYSIS - Created a pie chart to illustrate the distribution of orders across different channels, such as online platforms like Amazon versus in-store purchases from malls.
 
-    Orders Based on Top Sales Categories: Used a bar graph to display top sales categories, highlighting the best-performing product segments. This allowed for strategic decision-making regarding inventory and marketing efforts.
+BREAKDOWN OF ORDERS BY STATES -  Used a bar graph to display top sales categories, highlighting the best-performing product segments. This allowed for strategic decision-making regarding inventory and marketing efforts.
 
 - METHODOLOGIES
 
