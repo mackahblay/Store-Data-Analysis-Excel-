@@ -35,67 +35,67 @@ BREAKDOWN OF ORDERS BY STATES -  Used a bar graph to display top sales categorie
 
 2. INSIGHTS FROM 'ORDER CHANNELS' PIE CHART/DATA
 
-   a. Amazon had the largest share of the channel's pie chart with a 35% share
-   b. Amazon had its largest share in April with a market share of 39%
-   c. Ethnic dresses were channeled through Amazon the most with a share of 38%
-   d. Myntra was the 2nd most favorable channel by customers on average, followed closely by Flipkart in 3rd place
-   e. Bottoms were channeled through Myntra the most with a market share of 35%
-   f. With a market share of 39%, Myntra channeled the most blouses in 2022
-   g. In May, over 50% of blouses were channeled through Myntra
+   - Amazon had the largest share of the channel's pie chart with a 35% share
+   - Amazon had its largest share in April with a market share of 39%
+   - Ethnic dresses were channeled through Amazon the most with a share of 38%
+   - Myntra was the 2nd most favorable channel by customers on average, followed closely by Flipkart in 3rd place
+   - Bottoms were channeled through Myntra the most with a market share of 35%
+   - With a market share of 39%, Myntra channeled the most blouses in 2022
+   - In May, over 50% of blouses were channeled through Myntra
 
    
 3. INSIGHTS FROM 'ORDER STATUS' PIE CHART/DATA
 
-   a. October and November had the least orders delivered at 90%
-   b. March and January had the most orders delivered at 94%
-   c. The category with the highest delivery rate was Saree at 97%
-   d. The category with the lowest delivery rate was Blouses at 80%
-   e. In January: The most canceled order category was Blouses at 7% and the most refunded order category was Bottoms at 20%
-   f. Overall, Bottoms were the most returned category at 8%
-   g. Overall, Sets were the least refunded category at 0%
-   h. Overall, Bottoms were the most canceled category at 6%
-   i. The Bottoms category had a hectic year given it had both the highest number of cancelations and returns
-   j. During the summer, Ethnic dresses had the highest delivery rate at 96%
-   k. During the summer, Bottoms had the highest cancelation rate at 18%
-   l. During the summer, Western dresses had the highest return rate at 9%
-   m. During the fall, Sets had the highest delivery rate at 95%
-   n. During the fall, Bottoms had the highest return rate at 8%
+   - October and November had the least orders delivered at 90%
+   - March and January had the most orders delivered at 94%
+   - The category with the highest delivery rate was Saree at 97%
+   - The category with the lowest delivery rate was Blouses at 80%
+   - In January: The most canceled order category was Blouses at 7% and the most refunded order category was Bottoms at 20%
+   - Overall, Bottoms were the most returned category at 8%
+   - Overall, Sets were the least refunded category at 0%
+   - Overall, Bottoms were the most canceled category at 6%
+   - The Bottoms category had a hectic year given it had both the highest number of cancelations and returns
+   - During the summer, Ethnic dresses had the highest delivery rate at 96%
+   - During the summer, Bottoms had the highest cancelation rate at 18%
+   - During the summer, Western dresses had the highest return rate at 9%
+   - During the fall, Sets had the highest delivery rate at 95%
+   - During the fall, Bottoms had the highest return rate at 8%
 
 4. INSIGHTS FROM 'MEN VS WOMEN SPENDING' PIE CHART/DATA
 
-   a. Tops & Kurta were the joint-first for categories with the highest women's spending
-   b. Western dresses had the highest ratio of men's spending
-   c. Ethnic dresses had 32% female spending compared to 68% male spending
-   d. Saree had 78% female spending compared to 22% male spending
-   e. Bottoms surprisingly had 59% male spending compared to 41% female spending
+   - Tops & Kurta were the joint-first for categories with the highest women's spending
+   - Western dresses had the highest ratio of men's spending
+   - Ethnic dresses had 32% female spending compared to 68% male spending
+   - Saree had 78% female spending compared to 22% male spending
+   - Bottoms surprisingly had 59% male spending compared to 41% female spending
    
 5. INSIGHTS FROM 'SALES BY STATES' BAR GRAPH/DATA
 
-   a. Maharashtra was the Indian state with the most sales at 2.99 million Indian Rupees
-   b. Haryana had the least sales at 0.81 million Indian Rupees
-   c. Western dresses had the most sales in Maharashtra at 0.48 million Indian Rupees
-   d. Blouses had the most sales in Karnataka at 0.02 million Indian Rupees
-   e. Saree was most sold in the Indian state of Madhya Pradesh at 0.18 million Indian Rupees
+   - Maharashtra was the Indian state with the most sales at 2.99 million Indian Rupees
+   - Haryana had the least sales at 0.81 million Indian Rupees
+   - Western dresses had the most sales in Maharashtra at 0.48 million Indian Rupees
+   - Blouses had the most sales in Karnataka at 0.02 million Indian Rupees
+   - Saree was most sold in the Indian state of Madhya Pradesh at 0.18 million Indian Rupees
    
 6. INSIGHTS FROM 'ORDERS BY AGE & GENDER' BAR GRAPH/DATA
 
-   a. Female adults had the largest percentage of orders among all female age groups
-   b. Male adults had the largest percentage of orders among all male age groups
-   c. Male adults had a significantly high percentage of Western dresses among all age groups at 76.09%
-   d. Among adults, women had the highest percentage of orders at 69.37%
-   e. Among teens, females had the highest percentage of orders at 70.75%
-   f. Among senior citizens, females had the highest percentage of Top orders at 97.38%
-   g. Among teens, males had a 100% share of Bottom orders
-   h. Among teens, females had a 100% share of Blouse orders
-   i. Among senior citizens, females had a 99.06% share of Kurta orders
-   j. Among males, adults had the highest percentage share of all orders at 85.93%
-   k. Among males, teens had 0% of the Blouse orders share
-   l. The order category with the highest share of male teens was Ethnic dresses at 6.25%
-   m. The order category with the highest share of female teens was Ethnic dresses at 5.68%
-   n. During the summer, female adults had the highest percentage share of orders at 58.87%
-   o. During the fall, male teens had the lowest percentage share of orders at 1.26%
-   p. Male teens had their highest percentage share of orders in June at 40.15%
-   q. 0% of Ethnic dress orders were made by female senior citizens
+   - Female adults had the largest percentage of orders among all female age groups
+   - Male adults had the largest percentage of orders among all male age groups
+   - Male adults had a significantly high percentage of Western dresses among all age groups at 76.09%
+   - Among adults, women had the highest percentage of orders at 69.37%
+   - Among teens, females had the highest percentage of orders at 70.75%
+   - Among senior citizens, females had the highest percentage of Top orders at 97.38%
+   - Among teens, males had a 100% share of Bottom orders
+   - Among teens, females had a 100% share of Blouse orders
+   - Among senior citizens, females had a 99.06% share of Kurta orders
+   - Among males, adults had the highest percentage share of all orders at 85.93%
+   - Among males, teens had 0% of the Blouse orders share
+   - The order category with the highest share of male teens was Ethnic dresses at 6.25%
+   - The order category with the highest share of female teens was Ethnic dresses at 5.68%
+   - During the summer, female adults had the highest percentage share of orders at 58.87%
+   - During the fall, male teens had the lowest percentage share of orders at 1.26%
+   - Male teens had their highest percentage share of orders in June at 40.15%
+   - 0% of Ethnic dress orders were made by female senior citizens
 
 
    
