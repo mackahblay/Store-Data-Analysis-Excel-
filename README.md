@@ -1,4 +1,4 @@
-Project Description: Exploring Store Sales Data with Excel
+PROJECT DESCRIPTION - EXPLORING STORE SALES DATA WITH EXCEL
 
 In this project, I delved into a comprehensive dataset from a store, uncovering valuable insights using a variety of Excel techniques. The dataset provided a wealth of information, including orders, customer ages, order dates, delivery statuses, quantities, currency details, amounts, shipping statistics, and order/product categories.
 Key Insights:
@@ -13,7 +13,7 @@ Key Insights:
 
     Orders Based on Top Sales Categories: Used a bar graph to display top sales categories, highlighting the best-performing product segments. This allowed for strategic decision-making regarding inventory and marketing efforts.
 
-Methodology:
+- METHODOLOGIES
 
     Graphical Representation: Leveraged bar graphs, pie charts, and other visualizations to present the data in an easily understandable format.
 
@@ -21,6 +21,6 @@ Methodology:
 
     Vendor Comparison: Explored sales from different vendors, such as Amazon and malls, through comparative pie charts, shedding light on the store's partnerships and vendor performance.
 
-Conclusion:
+- CONCLUSION
 
 Through this project, I not only analyzed the store's sales data but also provided actionable insights for improving marketing strategies, inventory management, and customer targeting. The combination of visual representations and data manipulation in Excel allowed for a thorough exploration of the dataset, ultimately leading to valuable business recommendations.
